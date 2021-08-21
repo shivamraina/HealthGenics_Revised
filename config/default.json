@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey":"12345",
+    "mongoURI":"mongodb://localhost/healthgenics"
+}
